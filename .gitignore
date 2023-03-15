@@ -22,6 +22,7 @@ dev
 *.so
 *.o
 *.a
+*.bak
 mkmf.log
 node_modules
 resources/js
